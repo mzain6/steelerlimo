@@ -1,0 +1,396 @@
+[
+ {
+  "t": 0.004,
+  "type": "sec",
+  "name": "opening"
+ },
+ {
+  "t": 0.136,
+  "type": "release-app"
+ },
+ {
+  "t": 3.892,
+  "type": "sec",
+  "name": "hero"
+ },
+ {
+  "t": 5.152,
+  "type": "cta-hover"
+ },
+ {
+  "t": 5.604,
+  "type": "sec",
+  "name": "statement"
+ },
+ {
+  "t": 5.626,
+  "type": "scroll",
+  "y": 385
+ },
+ {
+  "t": 6.559,
+  "type": "scroll",
+  "y": 912
+ },
+ {
+  "t": 9.365,
+  "type": "sec",
+  "name": "services-index"
+ },
+ {
+  "t": 9.368,
+  "type": "scroll",
+  "y": 1716
+ },
+ {
+  "t": 11.539,
+  "type": "row-hover",
+  "id": "luxury"
+ },
+ {
+  "t": 11.908,
+  "type": "scroll",
+  "y": 2176
+ },
+ {
+  "t": 13.739,
+  "type": "row-hover",
+  "id": "airport"
+ },
+ {
+  "t": 14.09,
+  "type": "sec",
+  "name": "services-page"
+ },
+ {
+  "t": 14.092,
+  "type": "scroll",
+  "y": 1986
+ },
+ {
+  "t": 15.501,
+  "type": "click",
+  "label": "nav-services"
+ },
+ {
+  "t": 17.926,
+  "type": "scroll",
+  "y": 5506
+ },
+ {
+  "t": 19.692,
+  "type": "scroll",
+  "y": 5226
+ },
+ {
+  "t": 21.501,
+  "type": "click",
+  "label": "tab-point"
+ },
+ {
+  "t": 22.197,
+  "type": "scroll",
+  "y": 6297
+ },
+ {
+  "t": 23.884,
+  "type": "click",
+  "label": "faq-open"
+ },
+ {
+  "t": 24.675,
+  "type": "sec",
+  "name": "fleet"
+ },
+ {
+  "t": 24.675,
+  "type": "scroll",
+  "y": 6107
+ },
+ {
+  "t": 26.032,
+  "type": "click",
+  "label": "nav-fleet"
+ },
+ {
+  "t": 28.439,
+  "type": "scroll",
+  "y": 454
+ },
+ {
+  "t": 30.229,
+  "type": "click",
+  "label": "tab-xl"
+ },
+ {
+  "t": 31.419,
+  "type": "sec",
+  "name": "about"
+ },
+ {
+  "t": 31.456,
+  "type": "scroll",
+  "y": 264
+ },
+ {
+  "t": 32.93,
+  "type": "click",
+  "label": "nav-about"
+ },
+ {
+  "t": 35.346,
+  "type": "scroll",
+  "y": 2439
+ },
+ {
+  "t": 36.965,
+  "type": "sec",
+  "name": "book"
+ },
+ {
+  "t": 36.986,
+  "type": "scroll",
+  "y": 2249
+ },
+ {
+  "t": 38.354,
+  "type": "click",
+  "label": "nav-book"
+ },
+ {
+  "t": 40.648,
+  "type": "scroll",
+  "y": 425
+ },
+ {
+  "t": 42.592,
+  "type": "click",
+  "label": "pick-airport"
+ },
+ {
+  "t": 42.97,
+  "type": "scroll",
+  "y": 770
+ },
+ {
+  "t": 44.752,
+  "type": "click",
+  "label": "continue-1"
+ },
+ {
+  "t": 46.482,
+  "type": "click",
+  "label": "pickup"
+ },
+ {
+  "t": 47.358,
+  "type": "type",
+  "label": "pickup",
+  "chars": 11,
+  "keys": [
+   46.721,
+   46.789,
+   46.849,
+   46.91,
+   46.966,
+   47.023,
+   47.081,
+   47.137,
+   47.192,
+   47.247,
+   47.297
+  ]
+ },
+ {
+  "t": 47.969,
+  "type": "click",
+  "label": "dropoff"
+ },
+ {
+  "t": 48.642,
+  "type": "type",
+  "label": "dropoff",
+  "chars": 8,
+  "keys": [
+   48.203,
+   48.253,
+   48.307,
+   48.359,
+   48.408,
+   48.464,
+   48.53,
+   48.589
+  ]
+ },
+ {
+  "t": 48.644,
+  "type": "scroll",
+  "y": 517
+ },
+ {
+  "t": 50.306,
+  "type": "click",
+  "label": "date"
+ },
+ {
+  "t": 50.835,
+  "type": "type",
+  "label": "date-keys",
+  "chars": 8,
+  "keys": [
+   50.39,
+   50.443,
+   50.503,
+   50.559,
+   50.606,
+   50.663,
+   50.729,
+   50.781
+  ]
+ },
+ {
+  "t": 51.478,
+  "type": "click",
+  "label": "time"
+ },
+ {
+  "t": 51.908,
+  "type": "type",
+  "label": "time-keys",
+  "chars": 5,
+  "keys": [
+   51.555,
+   51.617,
+   51.681,
+   51.75,
+   51.827
+  ]
+ },
+ {
+  "t": 52.282,
+  "type": "scroll",
+  "y": 879
+ },
+ {
+  "t": 54.124,
+  "type": "click",
+  "label": "continue-2"
+ },
+ {
+  "t": 55.993,
+  "type": "click",
+  "label": "pick-xl"
+ },
+ {
+  "t": 56.33,
+  "type": "scroll",
+  "y": 784
+ },
+ {
+  "t": 58.156,
+  "type": "click",
+  "label": "continue-3"
+ },
+ {
+  "t": 59.94,
+  "type": "click",
+  "label": "name"
+ },
+ {
+  "t": 60.771,
+  "type": "type",
+  "label": "name",
+  "chars": 10,
+  "keys": [
+   60.191,
+   60.255,
+   60.307,
+   60.361,
+   60.428,
+   60.483,
+   60.545,
+   60.593,
+   60.647,
+   60.697
+  ]
+ },
+ {
+  "t": 61.383,
+  "type": "click",
+  "label": "phone"
+ },
+ {
+  "t": 62.15,
+  "type": "type",
+  "label": "phone",
+  "chars": 10,
+  "keys": [
+   61.612,
+   61.659,
+   61.711,
+   61.759,
+   61.817,
+   61.87,
+   61.924,
+   61.974,
+   62.021,
+   62.079
+  ]
+ },
+ {
+  "t": 62.725,
+  "type": "click",
+  "label": "email"
+ },
+ {
+  "t": 63.765,
+  "type": "type",
+  "label": "email",
+  "chars": 16,
+  "keys": [
+   62.954,
+   62.996,
+   63.04,
+   63.084,
+   63.128,
+   63.175,
+   63.229,
+   63.28,
+   63.341,
+   63.398,
+   63.442,
+   63.5,
+   63.57,
+   63.632,
+   63.682,
+   63.724
+  ]
+ },
+ {
+  "t": 63.97,
+  "type": "scroll",
+  "y": 736
+ },
+ {
+  "t": 65.785,
+  "type": "click",
+  "label": "send"
+ },
+ {
+  "t": 66.586,
+  "type": "confirmed"
+ },
+ {
+  "t": 68.586,
+  "type": "sec",
+  "name": "end"
+ },
+ {
+  "t": 0,
+  "type": "meta",
+  "staleLead": -0.208,
+  "K": 4,
+  "fps": 60,
+  "videoSeconds": 68.867
+ }
+]
